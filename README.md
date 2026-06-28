@@ -25,3 +25,24 @@ I craft responsive, scalable, and user‑focused web applications. I’m constan
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
+---
+
+## 👨‍💻 About Me
+
+- Started my web development journey in **2023**.
+- Building full‑stack applications with **React, Next.js, Node.js, Express, and MongoDB**.
+- Currently deepening my knowledge of **Next.js** and practising **Data Structures & Algorithms**.
+- Aiming for a **Software Engineer** role at a product‑based company.
+- Always open to collaboration and open‑source contributions.
+
+---
+
+## 🎯 Current Focus
+
+- 📚 Mastering Next.js (App Router, Server Components, SSR)
+- 🧠 Solving DSA problems consistently (LeetCode + CodeChef)
+- 🚀 Building production‑ready full‑stack projects
+
+---

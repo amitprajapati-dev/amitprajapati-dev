@@ -137,3 +137,19 @@ A modern AI agency landing page with a clean, responsive design, smooth animatio
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitprajapati-dev/Portfolio)
 
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitprajapati-dev&theme=github-dark&hide_border=true&bg_color=0d1117&color=00C853&line=00C853&point=ffffff" />
+</div>
+
+
+
+
+
+
+
+
+

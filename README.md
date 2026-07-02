@@ -145,6 +145,31 @@ A modern AI agency landing page with a clean, responsive design, smooth animatio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitprajapati-dev&theme=github-dark&hide_border=true&bg_color=0d1117&color=00C853&line=00C853&point=ffffff" />
 </div>
 
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://amitprajapati-dev-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amitprajapati-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:amitprajapati4353@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+##
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made_with_❤️_by-Amit_Prajapati-00C853?style=for-the-badge" />
+</div>
+
+
 
 
 
